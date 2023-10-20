@@ -1,23 +1,25 @@
 {
-  "title": "Goblon Slayer",
-  "description": "Descrição...",
-  "artist": "Artista...",
-  "author": "Autor...",
-  "cover": "https://m.media-amazon.com/images/I/81W1Edd9o6L._AC_UF1000,1000_QL80_.jpg",
-  "chapters": {
-    "75": {
-      "title": "Manga 1...",
-      "volume": "3",
-      "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/LBSP6LN/"
+    "title": "Manga Titulo Teste",
+    "description": "Descrição",
+    "artist": "Artista",
+    "author": "Autor",
+    "cover": "https://m.media-amazon.com/images/I/81W1Edd9o6L._AC_UF1000,1000_QL80_.jpg",
+    "chapters": {
+      "75": {
+        "title": "Nome capitulo 1",
+        "volume": "Volume 3",
+        "groups": {
+          "<group name>": "/proxy/api/imgur/chapter/LBSP6LN/"
+        },
+        "last_updated": "1616368746"
+      },
+      "76": {
+        "title": " WEBTOON KR",
+        "volume": "Volume 3",
+        "groups": {
+          "<group name>": "/proxy/api/imgur/chapter/64ej53Y/"
+        },
+        "last_updated": "1616368746"
       }
-    },
-    "75": {
-      "title": "WEbtoon KR 2...",
-      "volume": "3",
-      "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/64ej53Y/"
-      }
+    }
   }
-}
-}
