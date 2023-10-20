@@ -1,0 +1,17 @@
+{
+  "title": "Goblon Slayer",
+  "description": "Descrição...",
+  "artist": "Artista...",
+  "author": "Autor...",
+  "cover": "https://m.media-amazon.com/images/I/81W1Edd9o6L._AC_UF1000,1000_QL80_.jpg",
+  "chapters": {
+    "75": {
+      "title": "Nome do capitulo...",
+      "volume": "3",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/S6BUy7B/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
