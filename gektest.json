@@ -6,14 +6,14 @@
   "cover": "https://m.media-amazon.com/images/I/81W1Edd9o6L._AC_UF1000,1000_QL80_.jpg",
   "chapters": {
     "75": {
-      "title": "Nome do capitulo...",
+      "title": "Manga 1...",
       "volume": "3",
       "groups": {
         "<group name>": "/proxy/api/imgur/chapter/LBSP6LN/"
       },
     "76": {
-      "title": "Nome do capitulo...",
-      "volume": "3",
+      "title": "Webtoon KR...",
+      "volume": "4",
       "groups": {
         "<group name>": "/proxy/api/imgur/chapter/64ej53Y/"
       },
